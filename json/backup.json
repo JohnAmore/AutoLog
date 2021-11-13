@@ -1,0 +1,21 @@
+[
+  "websites":
+  {
+    "netflix": {
+        "username": "danben3@hotmail.com",
+        "password": "7H3EN71R3K3YB04RD",
+        "url": "https://www.netflix.com/login",
+        "Login_Element": "//*[@id=\"id_userLoginId\"]",
+        "Password_Element": "//*[@id=\"id_password\"]",
+        "Login_Button": "//*[@id=\"appMountPoint\"]/div/div[3]/div/div/div[1]/form/button"
+    },
+    "canvas": {
+        "username": "ddbennett@cn.edu",
+        "password": "Dan2iel2",
+        "url": "cn.instructure.com",
+        "Login_Element": "//*[@id=\"userNameInput\"]",
+        "Password_Element": "//*[@id=\"passwordInput\"]",
+        "Login_Button": "//*[@id=\"submitButton\"]"
+    }
+  }
+]
